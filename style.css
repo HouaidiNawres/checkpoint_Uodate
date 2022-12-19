@@ -1,0 +1,30 @@
+nav  a{ 
+float: left;
+text-decoration: none; 
+color: #ffffff; 
+background: #000000; 
+height: 36px;
+line-height: 33px; 
+padding: 0 10px;
+font-family: sans-serif;
+}
+
+img {
+   height:270px;
+   width: 270px;
+
+}
+
+
+body {
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+}
